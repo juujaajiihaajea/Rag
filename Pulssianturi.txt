@@ -1,0 +1,1 @@
+Pulssianturi (tai inkrementtianturi) on teollisuusautomaatiossa käytettävä laite, joka mittaa mekaanista pyörimisliikettä, nopeutta, sijaintia tai kulmaa muuttamalla sen sähköisiksi pulsseiksi. Se tuottaa pulssijonoa, jonka perusteella ohjausjärjestelmä laskee liikkeen määrän ja suunnan. Yleisimmin käytetään optisia tai magneettisia antureita. 

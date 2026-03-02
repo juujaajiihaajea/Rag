@@ -1,0 +1,4 @@
+Sähkömoottori on sähköllä toimiva moottori, jonka avulla sähköenergiaa muutetaan mekaaniseksi energiaksi.[1] Sähkömoottorissa luodaan kelalle käärittyjen johtimien eli käämien väliseen magnetoituvaan metalliin sähkön avulla magneettikenttä, jonka napaisuutta sopivalla taajuudella vaihtelemalla moottori saadaan pyörimään.
+
+Generaattoreista ja sähkömoottoreista käytetään yhteistä nimitystä sähkökoneet.[2] Sähkömoottori voi joissain tapauksissa toimia myös generaattorina, kun sitä pyöritetään ulkopuolisella voimalla.
+
